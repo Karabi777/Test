@@ -1,1 +1,2 @@
-// welcome to js 
+// welcome to js
+console.log("hey");
