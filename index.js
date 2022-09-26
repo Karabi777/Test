@@ -1,2 +1,4 @@
-// welcome to js
-console.log("hey");
+console.log("karabi")
+console.log("baishya")
+var x=10
+console.log(x)
